@@ -1,0 +1,3 @@
+Dicas sobre o git
+
+git status -- verificar status do projeto
